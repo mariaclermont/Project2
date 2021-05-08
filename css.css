@@ -1,0 +1,14 @@
+body {
+  background-image: url('cover2.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+.text-center {
+  position: absolute;
+  bottom: 10px;
+  left: 54%;
+  margin-left: -104.5px; /*104.5px is half of the button's width*/
+
+}
